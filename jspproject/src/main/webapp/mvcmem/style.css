@@ -1,0 +1,38 @@
+@charset "UTF-8";
+BODY {
+	FONT-SIZE:9pt; COLOR:BLACK; LINE-HEIGHT:160%; FONT-FAMILY: 굴림, verdana, tahoma;
+}
+TD {
+	FONT-SIZE:9pt; COLOR:BLACK; LINE-HEIGHT:160%; FONT-FAMILY: 굴림, verdana, tahoma;
+}                                                              
+SELECT {                                                      
+	FONT-SIZE:9pt; COLOR:BLACK; LINE-HEIGHT:160%; FONT-FAMILY: 굴림, verdana, tahoma;
+}                                                              
+DIV {                                                      
+	FONT-SIZE:9pt; COLOR:BLACK; LINE-HEIGHT:160%; FONT-FAMILY: 굴림, verdana, tahoma;
+}                                                              
+FORM {                                                        
+	FONT-SIZE:9pt; COLOR:BLACK; LINE-HEIGHT:160%; FONT-FAMILY: 굴림, verdana, tahoma;
+}
+TEXTAREA {
+	font-size:9pt;
+	border-right: 1px solid #999999;  
+	border-top: 1px solid #999999;  
+	border-left: 1px solid #999999;  
+	border-bottom: 1px solid #999999;  
+	font-family: 굴림, verdana, tahoma;
+	background-color: white;
+}
+INPUT {
+	font-size:9pt;
+	border-right: 1px solid #999999;  
+	border-top: 1px solid #999999;  
+	border-left: 1px solid #999999;  
+	border-bottom: 1px solid #999999;  
+	font-family: 굴림, verdana, tahoma;
+	background-color: white;
+}
+A:link { text-decoration: none; color: #696969; } 
+A:hover { text-decoration: yes; color: #66ccff; } 
+A:visit { text-decoration: none; color: #330066; } 
+	

@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+BODY {
+	font-size: 9pt;
+	color: black;
+	line-height: 160%;
+	font-family: sans-serif;
+}
+
+TD {
+	font-size: 9pt;
+	color: black;
+	line-height: 160%;
+	font-family: sans-serif;
+}
+
+SELECT {
+	font-size: 9pt;
+	color: black;
+	line-height: 160%;
+	font-family: sans-serif;
+}
+
+DIV {
+	font-size: 9pt;
+	color: black;
+	line-height: 160%;
+	font-family: sans-serif;
+}
+
+FORM {
+	font-size: 9pt;
+	color: black;
+	line-height: 160%;
+	font-family: sans-serif;
+}
+TEXTAREA{
+	font-size: 9pt;
+	border-right: 1px solid #999999;
+	border-top: 1px solid #999999;
+	border-left: 1px solid #999999;
+	border-bottom: 1px solid #999999;
+	font-family: sans-serif;
+	background-color: white;
+	
+}
+
+
+INPUT{
+	font-size: 9pt;
+	border-right: 1px solid #999999;
+	border-top: 1px solid #999999;
+	border-left: 1px solid #999999;
+	border-bottom: 1px solid #999999;
+	font-family: sans-serif;
+	background-color: white;
+	
+}
+
+A:link{ text-decoration: none; color:#696969;}
+A:hover{ text-decoration: yes; color:#66ccff;}
+A:visited{ text-decoration: yes; color:#330066;}
+
+
+/* 앞으로 만들 공통 CSS */
+
+
+
+
+
+
+
+
